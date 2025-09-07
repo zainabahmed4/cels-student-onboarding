@@ -14,7 +14,7 @@ This repository contains my team and I's **UX research and development project**
 - Created **journey maps and personas** to visualize student experiences.  
 
 ## 📂 Files  
-- [**CELS Student Onboarding Site Report.pdf**](./CELS%20Student%20Onboarding%20Site%20Report.pdf) – Full project report (research methods, findings, prototypes, and next steps).  
+- **CELS Student Onboarding Site Report.pdf – Full project report (research methods, findings, prototypes, and next steps).  
 
 ## 🛠️ Tools & Skills  
 - **Frontend**: HTML, CSS, Markdown  
